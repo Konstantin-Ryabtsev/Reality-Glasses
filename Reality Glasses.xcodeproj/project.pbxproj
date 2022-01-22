@@ -9,7 +9,6 @@
 /* Begin PBXBuildFile section */
 		0A7A3E10279B91DF00E7E187 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A7A3E0F279B91DF00E7E187 /* AppDelegate.swift */; };
 		0A7A3E12279B91DF00E7E187 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A7A3E11279B91DF00E7E187 /* ContentView.swift */; };
-		0A7A3E14279B91DF00E7E187 /* Experience.rcproject in Sources */ = {isa = PBXBuildFile; fileRef = 0A7A3E13279B91DF00E7E187 /* Experience.rcproject */; };
 		0A7A3E16279B91E500E7E187 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0A7A3E15279B91E500E7E187 /* Assets.xcassets */; };
 		0A7A3E19279B91E500E7E187 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0A7A3E18279B91E500E7E187 /* Preview Assets.xcassets */; };
 /* End PBXBuildFile section */
@@ -18,7 +17,6 @@
 		0A7A3E0C279B91DF00E7E187 /* Reality Glasses.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Reality Glasses.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		0A7A3E0F279B91DF00E7E187 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		0A7A3E11279B91DF00E7E187 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
-		0A7A3E13279B91DF00E7E187 /* Experience.rcproject */ = {isa = PBXFileReference; lastKnownFileType = file.rcproject; path = Experience.rcproject; sourceTree = "<group>"; };
 		0A7A3E15279B91E500E7E187 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0A7A3E18279B91E500E7E187 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -55,7 +53,6 @@
 			children = (
 				0A7A3E0F279B91DF00E7E187 /* AppDelegate.swift */,
 				0A7A3E11279B91DF00E7E187 /* ContentView.swift */,
-				0A7A3E13279B91DF00E7E187 /* Experience.rcproject */,
 				0A7A3E15279B91E500E7E187 /* Assets.xcassets */,
 				0A7A3E17279B91E500E7E187 /* Preview Content */,
 			);
@@ -142,7 +139,6 @@
 			files = (
 				0A7A3E12279B91DF00E7E187 /* ContentView.swift in Sources */,
 				0A7A3E10279B91DF00E7E187 /* AppDelegate.swift in Sources */,
-				0A7A3E14279B91DF00E7E187 /* Experience.rcproject in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
